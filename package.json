@@ -1,0 +1,33 @@
+{
+  "name": "mb-keycode",
+  "version": "1.0.2",
+  "description": "Javascript keyboard event code",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OkBayat/mb-keycode.git"
+  },
+  "keywords": [
+    "keycode"
+  ],
+  "author": "OkBayat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OkBayat/mb-keycode/issues"
+  },
+  "homepage": "https://github.com/OkBayat/mb-keycode#readme",
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "files": [
+    "dist/*"
+  ]
+}
