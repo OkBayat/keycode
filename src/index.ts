@@ -9,6 +9,7 @@ export const ARROW_DOWN = 'ArrowDown';
 export const ARROW_LEFT = 'ArrowLeft';
 export const ARROW_RIGHT = 'ArrowRight';
 export const ESCAPE = 'Escape';
+export const ENTER = 'Enter';
 export const F1 = 'F1';
 export const F2 = 'F2';
 export const F3 = 'F3';
