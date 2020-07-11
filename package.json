@@ -1,6 +1,6 @@
 {
   "name": "mb-keycode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Javascript keyboard event code",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
